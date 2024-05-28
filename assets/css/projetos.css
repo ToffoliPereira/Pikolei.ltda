@@ -1,0 +1,38 @@
+.projetos {
+    background-color: black;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.projetos h2 {
+    color: #fff;
+    font-size: 50px;
+}
+
+.projetos img {
+    height: 40%;
+    width: 20%;
+}
+
+.links {
+    width: 40%;
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.links a {
+    color: #fff;
+    font-size: 25px;
+    transition: .3s;
+}
+
+.links a:hover {
+    color: #b73719;
+}

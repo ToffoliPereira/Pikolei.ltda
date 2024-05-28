@@ -1,0 +1,16 @@
+.inicio {
+    display: flex;
+    flex-direction: column;
+}
+
+.inicio h1 {
+    color: #fff;
+    margin: 27% 0px 0px 50px;
+    font-size: 150px;
+}
+
+.inicio h2 {
+    color: #fff;
+    margin-left: 50px;
+    font-size: 30px;
+}

@@ -1,0 +1,51 @@
+.equipe {
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.inf {
+    width: 70%;
+    height: 20%;
+    text-align: center;
+}
+
+.inf h2 {
+    color: #81be3f;
+    font-size: 50px;
+}
+
+.inf p {
+    color: #fff;
+    font-size: 30px;
+}
+
+.integrantes {
+    border-bottom: 1px solid #fff;
+    color: #81be3f;
+    width: 90%;
+    height: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.end {
+    width: 90%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+}
+
+.end img {
+    height: 100%;
+}
+
+.end a {
+    height: 50%;
+    margin-top: 1%;
+}
